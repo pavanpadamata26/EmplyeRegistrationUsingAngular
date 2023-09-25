@@ -1,0 +1,21 @@
+.row{
+    display:flex;
+    gap:10px;
+    mat-form-feild{
+        width: 100%;
+    }
+}
+.content{
+    padding-top: 10px;
+}
+.action{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 25px 20px;
+   
+   
+}
+.action button {
+    flex: 1;
+    margin-right: 10px; /* Add spacing between buttons if desired */
+  }

@@ -1,0 +1,93 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "sai",
+      "lastName": "kumar",
+      "email": "sai@gmail.com",
+      "dob": "2021-10-10T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "microsoft",
+      "experience": 1,
+      "package": 5,
+      "id": 2
+    },
+    {
+      "firstName": "jeevan",
+      "lastName": "kumar",
+      "email": "jeevan@gmail.com",
+      "dob": "2023-09-10T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "microsoft",
+      "experience": 2,
+      "package": 15,
+      "id": 6
+    },
+    {
+      "firstName": "pavan",
+      "lastName": "padamata",
+      "email": "pavankumar@gmail.com",
+      "dob": "2023-09-10T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "microsoft",
+      "experience": 2,
+      "package": 20,
+      "id": 7
+    },
+    {
+      "firstName": "ram",
+      "lastName": "jj",
+      "email": "ram@gmail.com",
+      "dob": "2023-09-17T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "microsoft",
+      "experience": 2,
+      "package": 20,
+      "id": 8
+    },
+    {
+      "firstName": "kk",
+      "lastName": "yyuii",
+      "email": "raju123@gmail.com",
+      "dob": "2023-09-04T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "jjj",
+      "experience": 3,
+      "package": 20,
+      "id": 9
+    },
+    {
+      "firstName": "kk",
+      "lastName": "yyuii",
+      "email": "raju123@gmail.com",
+      "dob": "",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "jjj",
+      "experience": 4,
+      "package": 40,
+      "id": 10
+    }
+  ]
+}
